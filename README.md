@@ -39,11 +39,4 @@ This project investigates how monetary policy decisions (e.g., interest rate cha
 - **Visualization:** `matplotlib`
 - **Statistical Analysis:** `statsmodels`
 
----
-
-### **How to Run the Project**
-1. **Clone Repository:**
-   ```bash
-   git clone <repository_url>
-   cd impact-monetary-policy
 
